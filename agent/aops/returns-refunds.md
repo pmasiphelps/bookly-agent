@@ -1,11 +1,11 @@
 ---
-name: Returns & refunds
+name: Returns & refunds2
 when: The customer wants to return a book or get a refund, including a book that arrived damaged.
 enabled: true
 force_category: returns_refunds
 created_by: claude (returns conversion)
-updated_by: unknown
-updated_at: '2026-11-10T01:54:58+00:00'
+updated_by: Patrick Phrayme
+updated_at: '2026-11-10T03:02:15+00:00'
 ---
 
 1. Look up the latest returns and refunds policies with @search_policies.
