@@ -17,3 +17,4 @@ aops:
 - escalation-request
 - lost-package
 - returns-refunds
+- cancel-order
